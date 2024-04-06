@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=0e75b6&style=flat" alt="lok-plok" /> </p>
 
-- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Php **I’m currently learning C, HTML, CSS, JavaScript, Php**
+- 🌱 I’m currently learning **C, HTML, CSS, JavaScript, Php**
 
-- 👯 I love solving mathematical or situational problems **I love solving mathematical or situational problems**
+- 👯 I love solving **mathematical or situational problems**
 
-- 📫 How to reach me paulfrancedetablan@gmail.com **paulfrancedetablan@gmail.com**
+- 📫 How to reach me via Gmail: **paulfrancedetablan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
