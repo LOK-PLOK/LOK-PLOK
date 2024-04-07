@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Paul France</h1>
 <h3 align="center">Student | Computer Science | Quick Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=918d8d&style=flat" alt="lok-plok" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
     
 - 🌱 I’m currently learning **C, HTML, CSS**
     
@@ -28,6 +26,7 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lok-plok&show_icons=true&theme=dark&locale=en&layout=compact" alt="lok-plok" />
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lok-plok&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="lok-plok" height="140"/>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=918d8d&style=flat" alt="lok-plok" /> </p>
 </p><hr>
     
 <p align="center">
