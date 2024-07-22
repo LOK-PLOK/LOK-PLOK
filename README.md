@@ -46,9 +46,9 @@
 
 ### Github Stats 📈
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lok-plok&show_icons=true&theme=dark&title_color=35A29F&locale=en&layout=compact" alt="lok-plok" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lok-plok&show_icons=true&theme=dark&title_color=35A29F&locale=en" alt="lok-plok" height="165"/>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=650ccc&style=flat" alt="lok-plok" /> </p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lok-plok&show_icons=true&theme=dark&title_color=7e1dfb&locale=en&layout=compact" alt="lok-plok" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lok-plok&show_icons=true&theme=dark&title_color=7e1dfb&locale=en" alt="lok-plok" height="165"/>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=7e1dfb&style=flat" alt="lok-plok" /> </p>
 </p>
 
 <h1></h1>
