@@ -50,9 +50,13 @@
 
 ### Github Stats 📈
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lok-plok&show_icons=true&theme=dark&title_color=7e1dfb&locale=en&layout=compact" alt="lok-plok" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lok-plok&show_icons=true&theme=dark&title_color=7e1dfb&locale=en" alt="lok-plok" height="165"/>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=7e1dfb&style=flat" alt="lok-plok" /> </p>
+    <img width=342 src='https://github-readme-stats.vercel.app/api/top-langs/?username=lok-plok&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+    <img width=450 src='https://github-readme-stats.vercel.app/api?username=lok-plok&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+    <img width=450 src='https://github-readme-streak-stats.herokuapp.com/?user=lok-plok&theme=vue-dark&hide_border=true' /> 
+    
+   <p align="center"> 
+       <img src="https://komarev.com/ghpvc/?username=lok-plok&label=Profile%20views&color=41B883&style=flat" alt="lok-plok" /> 
+    </p>
 </p>
 
 <h1></h1>
